@@ -6,6 +6,7 @@ w = 상자를 가로로 쌓는 수
 num = 꺼내려는 상자 번호
  */
 
+// 택배상자꺼내기
 class ProgrammersCodeChallenge {
 
     fun solution(n: Int, w: Int, num: Int): Int {
